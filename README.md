@@ -44,8 +44,8 @@ Para dudas, sugerencias o aportes, escribinos por el grupo de trabajo.
 
 <div align="center">
   <img
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ5NmRkc3dhbmg4ZTNzcjdqOXllY2EzZmV3eDl2Z29sOTkyaHd4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFkiFMDg3iFoI/giphy.gif"
-    width="400"
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNmd2twNGRpaWpseWdqN3d1dWh0aWdlZzN0MjM3bXcwNWY0cmR3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ItIWDCyzWUBOvQYWdC/giphy.gif"
+    width="300"
     alt="Git Merge"
   />
 </div>

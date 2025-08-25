@@ -1,2 +1,58 @@
 # assets/
 assets/*
+
+# Archivos compilados de Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Carpetas de build/compilación
+bin/
+build/
+target/
+out/
+dist/
+
+# Archivos de IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos de dependencias (si usas Maven/Gradle)
+dependencies/
+
+# Excepciones específicas - mantener los PDFs y assets importantes
+!assets/PDFs/
+!assets/varios/
+!assets/imgs/
+
+# Pero excluir archivos temporales dentro de assets
+assets/**/*.tmp
+assets/**/*.temp
+
+# Archivos de configuración local
+config.local.*
+.env
+.env.local
+
+# Backup files
+*.bak
+*.backup

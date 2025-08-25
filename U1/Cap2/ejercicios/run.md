@@ -2,7 +2,13 @@
 
 ```bash
 # ubicacion
-cd ...PAV/U1/ejercicios/x, .../01, .../02, .../03, ...
+cd .../U1/Cap2/ejercicios/x
+
+cd U1/Cap2/ejercicios/01/
+cd U1/Cap2/ejercicios/02/
+cd U1/Cap2/ejercicios/03/
+
+cd ...
 
 # compilar
 javac -d bin src/Main.java

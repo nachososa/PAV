@@ -18,10 +18,11 @@
 
 ## 📂 Contenidos
 
-| Unidad     | Tema                                |
-|------------|-------------------------------------|
-| `Unidad 1` | Interfaces Gráficas en Java - SWING |
-| `Unidad 2` | Persistencia de datos con Hibernate |
+| Unidad        | Tema                                |
+|---------------|-------------------------------------|
+| `Prácticas`   | Proyecto **PracticaSwing** en Java  |
+| `Unidad 1`    | Interfaces Gráficas en Java - SWING |
+| `Unidad 2`    | Persistencia de datos con Hibernate |
 
 ![Estado](https://img.shields.io/badge/estado-en%20curso-blue)
 ![Lenguaje](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)

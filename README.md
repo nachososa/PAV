@@ -20,7 +20,7 @@
 
 | Unidad        | Tema                                |
 |---------------|-------------------------------------|
-| `Prácticas`   | Proyecto **PracticaSwing** en Java  |
+| `Prácticas`   | **PracticaSwing**                   |
 | `Unidad 1`    | Interfaces Gráficas en Java - SWING |
 | `Unidad 2`    | Persistencia de datos con Hibernate |
 

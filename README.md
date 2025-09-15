@@ -29,11 +29,11 @@
 
 ## 💻 Stack
 
+Usamos **NetBeans**, para las resoluciones prácticas y **VSCode**, para la ejercitación.
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,vscode,github" />
 </p>
-
-## Resolución
 
 ## 📬 Contacto
 

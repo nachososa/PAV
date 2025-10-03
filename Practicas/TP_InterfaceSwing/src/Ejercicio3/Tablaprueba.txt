@@ -1,0 +1,6 @@
+Café;Bebidas;422.0
+Pan;Alimentos;120.0
+Leche;Lácteos;230.75
+Café;Bebidas;450.5
+Pan;Alimentos;120.0
+Leche;Lácteos;5.0

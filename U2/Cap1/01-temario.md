@@ -1,4 +1,4 @@
-# Temari
+# Temario
 
 1. Fundamentos y Arquitectura
     ¿Qué es Hibernate y para qué sirve?

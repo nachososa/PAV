@@ -1,4 +1,4 @@
-# Guía Básica de ORMs: Conceptos Fundamentales
+# Concepto de ORM (Object Relational Mapping)
 
 ## ¿Qué es un ORM?
 

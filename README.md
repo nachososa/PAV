@@ -10,7 +10,7 @@
 
 ## Integrantes
 
-- Noe
+- Noe Naranjo
 - Nacho Otero
 - Nico Pozzer
 - Nacho Sosa  
